@@ -23,22 +23,27 @@ This is a complete Inventory Management System built using Microsoft SQL Server.
 
 ## 📂 Project Files 
 
-- `Inventory_Tables.sql` → for table creation  
-- `Procedures.sql` → for all stored procedures  
-- `Triggers.sql` → for triggers on stock/order  
-- `Functions.sql` → for ID generator and calculator  
-- `Views.sql` → views for reports  
-- `Sample_Queries.sql` → final queries for business insights  
+### 1. Table Creation with Constraints
+![Table Creation](./Table_Creation.png)
 
----
+### 2. Sample Data in Tables
+![Table Data](./Table_Data.png)
 
-## 🧪 Sample Queries
+### 3. Trigger: Auto Stock Update After Order
+![Stock Update Trigger](./Trigger_Output_Before.png)
+![Stock Update Trigger](./Trigger_Output_After.png)
 
-Some examples added in `Sample_Queries.sql`:
-- Employees with highest salary
-- Department-wise average salary
-- Managers with birthdays this month
-- City-wise team size
+### 4. Trigger: Block Order If Not Enough Stock
+![Trigger Block](./Trigger_Block_Order.png)
+
+### 5. Stored Procedure Execution (e.g., ADDPRO, ADDORDER)
+![Procedure Execution](./Procedure_Execution.png)
+
+### 6. Auto ID Generation Using Function
+![ID Function](./Auto_id_Function.png)
+
+### 7. Business Query: Low Stock Alert
+![Low Stock Alert](./Low_Stock_Alert.png)
 
 ---
 
