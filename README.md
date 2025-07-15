@@ -68,6 +68,6 @@ This is a complete Inventory Management System built using Microsoft SQL Server.
 ## 🙋‍♂️ About Me
 
 👤 **Aniket Roy**  
-🎯 Business Analyst (SQL + Excel + Power BI Learner)  
+🎯 Business Analyst (Excel + SQL + MongoDB + Tableau + Power BI)  
 📬 aroy72325@gmail.com
 🔗 www.linkedin.com/in/aniket-roy-00251b214
